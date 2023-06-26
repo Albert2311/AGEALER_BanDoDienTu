@@ -7,3 +7,4 @@ Project Technology:
     + Frontend          :   Framework ReactJS, Material UI, Toastity, ChartJS.
     + State Management  :   Redux.
     + Backend           :   Firebase, File-saver.
+Link demo: https://agearle.vercel.app/login
