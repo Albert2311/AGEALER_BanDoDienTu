@@ -8,3 +8,5 @@ Project Technology:
     + State Management  :   Redux.
     + Backend           :   Firebase, File-saver.
 Link demo: https://agearle.vercel.app/login
+![image](https://github.com/Albert2311/AGILE_BanDoDienTu/assets/96101257/3f49349a-4456-430e-be45-41067ae92f76)
+
